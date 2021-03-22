@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "This is a Workshop about Cypress",
   "main": "index.js",
-  "scripts": {
-    "test": "cypress open"
+ "scripts": {
+    "test:open": "cypress open"
   },
   "repository": {
     "type": "git",
